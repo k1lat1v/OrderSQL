@@ -9,7 +9,7 @@ public class Main {
 
     private static final String DB_CONNECTION = "jdbc:mysql://localhost:3306/mydb?serverTimezone=Europe/Kiev";
     private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "VitaliyLD2014";
+    private static final String DB_PASSWORD = "password";
 
     private static final Scanner scanner = new Scanner(System.in);
 
